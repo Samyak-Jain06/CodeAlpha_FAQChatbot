@@ -1,0 +1,42 @@
+Question,Answer
+What is RAM?,"RAM is temporary memory used by the computer while programs are running."
+What is ROM?,"ROM stores permanent firmware and system instructions."
+What is AI?,"Artificial Intelligence enables machines to perform tasks that normally require human intelligence."
+What is Machine Learning?,"Machine Learning is a branch of AI that allows computers to learn from data."
+What is Cloud Computing?,"Cloud Computing provides computing resources over the internet."
+How do I install Python?,"Download Python from python.org and install it with Add to PATH enabled."
+What is GitHub?,"GitHub is a platform for hosting and managing Git repositories."
+How do I update Windows?,"Open Settings > Windows Update and click Check for Updates."
+Why is my laptop slow?,"Low storage, insufficient RAM, too many startup apps, or malware can slow a laptop."
+What is SSD?,"SSD stands for Solid State Drive and provides much faster storage than HDD."
+How do I free disk space?,"Delete unnecessary files, uninstall unused software, and use Disk Cleanup."
+How do I connect to Wi-Fi?,"Select your Wi-Fi network and enter the correct password."
+Hi,"Hello! 👋 How can I help you today?"
+
+Hello,"Hi there! 😊 What technology question can I answer for you?"
+
+Hey,"Hey! Ask me anything about Python, AI, GitHub, Windows, or Networking."
+
+Good morning,"Good morning! ☀️ How can I assist you today?"
+
+Good afternoon,"Good afternoon! How can I help?"
+
+Good evening,"Good evening! What would you like to know?"
+
+Thanks,"You're welcome! 😊"
+
+Thank you,"Happy to help! Let me know if you have more questions."
+
+Bye,"Goodbye! 👋 Have a great day."
+
+Who are you?,"I'm an AI Tech Support Assistant designed to answer technology-related questions."
+
+What can you do?,"I can answer questions about Python, AI, GitHub, Windows, Networking, Computer Hardware, and more."
+
+How are you?,"I'm doing great! Thanks for asking. 😊"
+
+Who made you?,"I was developed by Samyak Jain as part of a CodeAlpha AI internship project."
+
+What is your name?,"I'm AI Tech Support Assistant."
+
+Nice,"Thank you! 😊"

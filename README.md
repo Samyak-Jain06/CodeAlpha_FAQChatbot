@@ -88,7 +88,7 @@ streamlit run app.py
 
 ## 📷 Application Preview
 
-![AI Tech Support FAQ Chatbot](Screenshots/chatbot.png)
+![AI Tech Support FAQ Chatbot](chatbot1.png)
 
 ---
 
